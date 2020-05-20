@@ -1,10 +1,10 @@
 package servlet;
 
-import bsu.rfe.java.group7.lab9.Truhov.varA1.entity.Ad;
-import bsu.rfe.java.group7.lab9.Truhov.varA1.entity.AdList;
-import bsu.rfe.java.group7.lab9.Truhov.varA1.entity.UserList;
-import bsu.rfe.java.group7.lab9.Truhov.varA1.helper.AdListHelper;
-import bsu.rfe.java.group7.lab9.Truhov.varA1.helper.UserListHelper;
+import entity.Ad;
+import entity.AdList;
+import entity.UserList;
+import helper.AdListHelper;
+import helper.UserListHelper;
 
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;

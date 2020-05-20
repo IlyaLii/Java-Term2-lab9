@@ -1,8 +1,8 @@
 package tag;
 
-import bsu.rfe.java.group7.lab9.Truhov.varA1.entity.User;
-import bsu.rfe.java.group7.lab9.Truhov.varA1.entity.UserList;
-import bsu.rfe.java.group7.lab9.Truhov.varA1.helper.UserListHelper;
+import entity.User;
+import entity.UserList;
+import helper.UserListHelper;
 
 import javax.servlet.jsp.JspException;
 import javax.servlet.jsp.PageContext;

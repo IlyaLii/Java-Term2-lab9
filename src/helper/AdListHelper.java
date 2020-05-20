@@ -1,6 +1,6 @@
 package helper;
 
-import bsu.rfe.java.group7.lab9.Truhov.varA1.entity.AdList;
+import entity.AdList;
 
 import javax.servlet.ServletContext;
 import java.io.FileInputStream;
